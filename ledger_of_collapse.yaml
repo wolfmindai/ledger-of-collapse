@@ -1,0 +1,19 @@
+ledger_of_collapse:
+  ledger_id: LOC-07042025-001
+  recorded_by: Seaph Antelmi
+  symbolic_insignia: ⟦ ℒ ∴ ∆ ⊘ ⟧
+  integrity:
+    sha256_block: veritas-sha256-2025-07-01.txt
+    gpg_fingerprint: FD4C819115BAC57F
+  status: immutable
+  substrate_version: '1.0'
+  license: VSIL-1.1
+  notes:
+  - This declaration encodes the symbolic boundary of the Ledger of Collapse apparatus.
+  - All declarations are cryptographically anchored under the Veritas Substrate and
+    aligned with VEN symbolic protocols.
+  - The Ledger of Collapse is developed by Wolf Mind AI LLC and licensed under intellectual
+    property held by Wolf Mind Holdings LLC, with symbolic infrastructure stewardship
+    by Wolf Mind Trust LLC.
+  - This declaration is sovereign and institutional; it precedes interpretation and
+    is structurally independent of any agent, filing, or individual contributor.
