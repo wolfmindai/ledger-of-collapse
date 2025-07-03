@@ -55,18 +55,18 @@ This license covers all intellectual property developed within and derived from 
   - Any compositions or pipelines designed to maintain evidentiary traceability, epistemic consistency, or symbolic reproducibility across VEN deployments.
 
 ---
+3. License Grant
 
-## 3. License Grant
+Wolf Mind Trust LLC permits public inspection of this repository under the following constraints:
 
-Wolf Mind Trust LLC grants a **limited, non-transferable, non-exclusive** license to:
+- Symbolic declarations may be read and studied for reference.
+- No symbolic structures, registry formats, or epistemic frameworks may be reused, integrated, or republished—either in derivative form or original language—without explicit written consent.
 
-- View, study, and analyze the symbolic architecture and substrate structure.
-- Reuse portions for academic or non-commercial symbolic modeling, **only with attribution** and written consent.
+This declaration space is published solely for transparency and symbolic accountability.
 
-**You may not**:
-- Commercialize, redistribute, or integrate any symbolic substrate or VEN architecture without prior agreement.
-- Fork or publish derivatives of the substrate architecture under a different IP or licensing framework.
-- Integrate any VEN-bound symbolic structure into regulatory, fiduciary, compliance, or AI governance systems without license.
+Requests for reuse or adaptation—particularly for academic, educational, or symbolic modeling purposes—are welcome and may be directed to:
+
+**contact@wolfmindai.com**
 
 ---
 
