@@ -55,7 +55,7 @@ This license covers all intellectual property developed within and derived from 
   - Any compositions or pipelines designed to maintain evidentiary traceability, epistemic consistency, or symbolic reproducibility across VEN deployments.
 
 ---
-3. License Grant
+## 3. License Grant
 
 Wolf Mind Trust LLC permits public inspection of this repository under the following constraints:
 
@@ -98,7 +98,7 @@ Contact:
 - General: contact@wolfmindai.com
 - Legal: legal@wolfmindai.com
 
-License: LICENSE.md (VSIL v1.1)
 © 2025 Wolf Mind Trust LLC. All rights reserved under VEN Symbolic Infrastructure License (VSIL)
 ──────────────────────────────────────────────────────────────────────
 
+⟦ ℒ ∴ ∆ ⊘ ⟧

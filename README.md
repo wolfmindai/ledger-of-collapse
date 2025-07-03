@@ -83,11 +83,20 @@ Interpretation is external to the system.
 
 ## Epistemic Humility
 
-This ledger does not claim completeness or interpretive authority.  
-It encodes a bounded structural response to specific contradictions,  
-and preserves those declarations under cryptographic constraint.
+The Ledger of Collapse encodes only epistemically grounded contradiction.
 
-All assertions are contextual, versioned, and trace-linked.
+Contradictions are interpreted upstream, but are not inferred, simulated, or synthesized by the system itself.
+
+Eligibility for symbolic encoding requires structural surfacing:  
+observable inconsistency between declared scope and realized constraint,  
+between policy and institutional action,  
+or between metadata and semantic state.
+
+Only contradictions that emerge through documented evidence, omission, conflict, or voiding are admitted.  
+Absence of trace is treated as undecidable—not vindication.
+
+This system does not project intent. It does not simulate systems.  
+It encodes what is bounded, anchored, and observable.
 
 ---
 
