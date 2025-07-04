@@ -128,9 +128,11 @@ contradictions:
 ```
 
 ### File Structure
+
 The contradiction trace for each agent is stored in a dedicated YAML file located under the /contradictions/ directory. Each agent has its own subdirectory, and within that subdirectory, a file named contradiction_trace.yaml contains all contradictions specific to that agent.
 
 ## Example structure:
+
 ```text
 /contradictions
     /micron_technologies
@@ -144,9 +146,11 @@ The contradiction trace for each agent is stored in a dedicated YAML file locate
 This structure ensures that contradictions are neatly organized and easily traceable by agent.
 
 ### Assertions  
+
 Assertions, recorded in `symbolic_assertions.yaml`, are formal conclusions based on contradictions. They are linked to **SHA256-bound assets** and legal domains, ensuring that assertions are both **actionable** and **legally binding**. Assertions reflect the validation of contradictions and the eventual resolution of these discrepancies within the collapse model.
 
 ### VERITAS Manifests  
+
 The **veritas_manifest.yaml** accompanies each symbolic filing, serving as a digest log for cryptographic verification. It ensures:
 - **File Integrity**: Guarantees the immutability of each file.
 - **Version Control**: Tracks all versions and changes.
@@ -154,11 +158,12 @@ The **veritas_manifest.yaml** accompanies each symbolic filing, serving as a dig
 
 ---
 
-## Collapse Vector Encoding
+### Collapse Vector Encoding
 
 Collapse events are not only observed but **encoded** within the framework to ensure they are preserved in a verifiable and traceable manner. This encoding process is the foundation of how collapse dynamics are modeled and understood.
 
 ### Complementary Collapse Signals  
+
 The field of collapse is driven by two primary signals that indicate the onset of a collapse and its resolution:
 - `∆` — **Structural Contradiction**: Represents a declared inconsistency between an agent's stated position and its observable actions.
 - `⊘` — **Semantic Void**: Denotes the suppression or erasure of contradiction, even when the contradiction is observable.

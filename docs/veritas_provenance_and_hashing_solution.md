@@ -35,31 +35,34 @@ git_commits:
 #### **veritas_file_manifest.yaml**
 This file serves as the file integrity manifest, listing every file in the repository and its associated SHA256 hash. This allows for the verification of the file's integrity at any given point in the timeline.
 
-Structure:
-
-- path: <file-path>
-  sha256: <checksum>
+**Structure:**
+```yaml
+  - path: <file-path>
+    sha256: <checksum>
+```
 
 #### **veritas_figure_index.yaml**
 The figure index tracks all figures referenced throughout the repository. Each figure is indexed by its source and file path, ensuring that visual evidence is properly cataloged and linked to its source.
 
-Structure:
-
+**Structure:**
+```yaml
 figures:
   - source: <source-file>
     path: <figure-file-path>
+```
 
 #### veritas_outputs_summary.yaml
 This file summarizes the outputs of the collapse analysis, including resolutions, contradictions, and relevant evidence. It connects the figures and documents to their outcomes, ensuring each output is traceable to its source and evidence.
 
-Structure:
-
+**Structure:**
+```yaml
 outputs:
   - summary: <output-summary>
     associated_documents:
       - <document-path>
     associated_figures:
       - <figure-path>
+```
 
 ## How the Hashing Solution Works
 
@@ -71,10 +74,12 @@ The veritas_commit_provenance.yaml file links each commit to the specific files 
 
 ### Example:
 
-8639527764b5cddcecd9f26e8948dce58737e3b7:
+**8639527764b5cddcecd9f26e8948dce58737e3b7:**
+```yaml
   documents:
   - integration/veritas_submission_bridge.yaml
   authored: '2025-07-01T14:59:06-06:00'
+```
 This entry tells you exactly when veritas_submission_bridge.yaml was added and by whom.
 
 ## Verification Process
