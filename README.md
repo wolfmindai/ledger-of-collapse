@@ -127,4 +127,7 @@ License: LICENSE.md (VSIL v1.1)
 © 2025 Wolf Mind Trust LLC. All rights reserved under VEN Symbolic Infrastructure License (VSIL) 
 ──────────────────────────────────────────────────────────────────────
 
+## Archiving
+"Who the cap fits"
+
 
