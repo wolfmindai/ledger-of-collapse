@@ -1,0 +1,74 @@
+# Temporary rule to ignore contents inside the ark/ directory (but not the directory itself)
+ark/*
+
+# Keep the ark directory itself by allowing a placeholder file like .gitkeep
+!ark/.gitkeep
+
+# Python-related ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pytest_cache/
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+*.pytest/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+virtualenv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.zip
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# HTML-related ignores
+*.html~
+
+# IDE and editor settings (common ones)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Archive and backup files
+*.tar
+*.gz
+*.zip
+
+# Markdown editor state files
+*.md~
