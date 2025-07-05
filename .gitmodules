@@ -1,0 +1,6 @@
+[submodule "ark/chronicle-micron"]
+	path = ark/chronicle-micron
+	url = git@github.com:wolfmindai/chronicle-micron.git
+[submodule "chronicle-micron"]
+	path = chronicle-micron
+	url = git@github.com:wolfmindai/chronicle-micron.git
