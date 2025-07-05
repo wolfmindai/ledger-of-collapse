@@ -1,5 +1,3 @@
-# Temporary rule to ignore contents inside the ark/ directory (but not the directory itself)
-ark/*
 
 # Keep the ark directory itself by allowing a placeholder file like .gitkeep
 !ark/.gitkeep
