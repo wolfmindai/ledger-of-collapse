@@ -3,7 +3,7 @@
 A public declaration framework for encoding contradiction, collapse, and epistemic preservation.
 
 Developed and maintained by Wolf Mind AI LLC  
-Intellectual property and licensing held by Wolf Mind Holdings LLC  
+Intellectual property and licensing held by Wolf Core Trust LLC  
 License: Veritas Symbolic Infrastructure License (VSIL v1.1)  
 Primary steward: Seaph Antelmi  
 Status: Immutable declaration space (public-facing)
