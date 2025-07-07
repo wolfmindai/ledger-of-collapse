@@ -1,7 +1,7 @@
 # Veritas Symbolic Infrastructure License (VSIL) v1.1
 
 **Effective Date:** July 2, 2025  
-**Author:** Wolf Mind Trust LLC  
+**Author:** Wolf Core Trust LLC  
 **Applies to:** All symbolic constructs, documents, and templates under `ledger-of-collapse` and its submodules.
 
 ---
