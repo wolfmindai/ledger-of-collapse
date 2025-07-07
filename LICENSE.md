@@ -27,7 +27,7 @@ These assets are not open source.
 
 ## 3. License Grant
 
-Wolf Mind Trust LLC permits public inspection of this repository under the following conditions:
+Wolf Core Trust LLC permits public inspection of this repository under the following conditions:
 
 - Symbolic declarations may be **read and referenced** for context.
 - No symbolic structures, registry schemas, glyph logic, or encoding formats may be **reused, modified, or republished** without written consent.
@@ -48,9 +48,9 @@ Requests for reuse, licensing, or derivative adaptation may be directed to:
 ## 5. Legal Contact and IP Stewardship
 
 - Legal and Licensing: **legal@wolfmindai.com**  
-- IP Held by: **Wolf Mind Holdings LLC**  
+- IP Held by: **Wolf Core Trust LLC**  
 - Infrastructure Maintained by: **Wolf Mind AI LLC**  
-- Symbolic Governance: **Wolf Mind Trust LLC**
+- Symbolic Governance: **Wolf Core Trust LLC**
 
 ---
 
@@ -61,4 +61,4 @@ Use is at your own epistemic discretion and legal risk.
 
 ---
 
-**© 2025 Wolf Mind Holdings LLC. All rights reserved under VSIL v1.1**
+**© 2025 Wold Mind AI LLC and Wolf Core Trust LLC. All rights reserved under VSIL v1.1**
