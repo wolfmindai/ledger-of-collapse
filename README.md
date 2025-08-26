@@ -33,7 +33,6 @@ ledger-of-collapse/
 ├── ark/                      # Anchored nodes representing symbolic entities
 ├── docs/                     # Architectural documentation and symbolic narrative
 ├── meta/                     # Registries, schema fragments, legal overlays
-├── scaffold/                 # Structural scaffolds for symbolic field evolution
 ├── scripts/                  # Audit and registry tooling
 ├── whitepapers/              # Formal papers and doctrinal groundwork
 ├── loc.yaml                  # Immutable ledger declaration (symbolic SHA/GPG bound)
