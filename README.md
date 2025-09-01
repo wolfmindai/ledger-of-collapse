@@ -1,11 +1,13 @@
 # Ledger of Collapse
 
+All Rights Reserved.
+
 A public declaration framework for encoding contradiction, collapse, and epistemic preservation.
 
 Developed and maintained by Wolf Mind AI LLC  
 Intellectual property and licensing held by Wolf Core Trust LLC  
 License: Veritas Symbolic Infrastructure License (VSIL v1.1)  
-Primary steward: Seaph Antelmi  
+Author and Steward: Seaph Antelmi  
 Status: Immutable declaration space (public-facing)
 
 ---
