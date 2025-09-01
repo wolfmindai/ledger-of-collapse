@@ -31,10 +31,8 @@ for symbolic filings across regulatory and investigative contexts.
 ```
 ledger-of-collapse/
 ├── ark/                      # Anchored nodes representing symbolic entities
+├── chronicle-meta/           # Scaffold
 ├── docs/                     # Architectural documentation and symbolic narrative
-├── meta/                     # Registries, schema fragments, legal overlays
-├── scripts/                  # Audit and registry tooling
-├── whitepapers/              # Formal papers and doctrinal groundwork
 ├── loc.yaml                  # Immutable ledger declaration (symbolic SHA/GPG bound)
 ├── LICENSE.md                # Symbolic Infrastructure License (VSIL v1.1)
 ├── NOTICE.txt                # Usage and scope notice
@@ -102,7 +100,7 @@ It encodes what is bounded, anchored, and observable.
 ## Licensing
 
 All contents are governed under the Veritas Symbolic Infrastructure License (VSIL v1.1).  
-Intellectual property is held by Wolf Mind Holdings LLC.  
+Intellectual property is held by Seaph Antelmi and Wolf Core Trust LLC.  
 Use is permitted only under the terms declared in `LICENSE.md`.
 
 Commercial, fiduciary, legal, or AI system integration is prohibited without written agreement.
@@ -123,11 +121,6 @@ Contact:
 - Legal: legal@wolfmindai.com
 
 License: LICENSE.md (VSIL v1.1)
-© 2025 Wolf Mind Trust LLC. All rights reserved under VEN Symbolic Infrastructure License (VSIL) 
+© 2025 Seaph Antelmi - Wolf Core Trust LLC. All rights reserved under VEN Symbolic Infrastructure License (VSIL) 
 ──────────────────────────────────────────────────────────────────────
-
-## Archiving
-"Who the cap fits"
-
-
 # loc-dev-master
