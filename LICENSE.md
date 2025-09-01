@@ -63,4 +63,5 @@ Use is at your own epistemic discretion and legal risk.
 
 ---
 
-**© 2025 Seaph Antelmi - Wolf Mind AI LLC - Wolf Core Trust LLC. All rights reserved under VSIL v1.1**
+**© 2025 Copyright Seaph Antelmi - Wolf Mind AI LLC - Wolf Core Trust LLC. All rights reserved under VSIL v1.1**
+**All Rights Reserved 2025**
