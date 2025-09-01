@@ -63,4 +63,4 @@ Use is at your own epistemic discretion and legal risk.
 
 ---
 
-**© 2025 Wold Mind AI LLC and Wolf Core Trust LLC. All rights reserved under VSIL v1.1**
+**© 2025 Wolf Mind AI LLC and Wolf Core Trust LLC. All rights reserved under VSIL v1.1**
