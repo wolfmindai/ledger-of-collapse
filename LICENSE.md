@@ -20,6 +20,8 @@ This license governs symbolic logic, declarative scaffolds, epistemic encodings,
 - **Templated Directories:** `ark/<agent>/filings/`, `scaffold/`, `docs/`
 - **SHA/GPG Cryptographic Metadata Structures**
 - **Doctrinal Documents, Figures, and Narrative Maps**
+- **Chronicles, Ledgers and Arks stuctures**
+- **All scripts and tooling**
 
 These assets are not open source.
 
