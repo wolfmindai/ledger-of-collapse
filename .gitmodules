@@ -1,3 +1,6 @@
 [submodule "ark/chronicle-micron"]
 	path = ark/chronicle-micron
 	url = git@github.com:wolfmindai/chronicle-micron.git
+[submodule "ark/chronicle-openai"]
+	path = ark/chronicle-openai
+	url = git@github.com:wolfmindai/chronicle-openai.git
