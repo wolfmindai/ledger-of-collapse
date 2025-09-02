@@ -2,7 +2,11 @@
 
 All Rights Reserved.
 
-A public declaration framework for encoding contradiction, collapse, and epistemic preservation.
+This is part of a first-of-its-kind technology, the Wolf Mind Veritas Chronicle Apparatus. 
+
+LOC is a specialization of the Chronicle abstraction.  
+
+It is an early-stage public declaration framework for encoding contradiction, collapse, and epistemic preservation of memory in sovereign, sha-bound attestations.
 
 Developed and maintained by Wolf Mind AI LLC  
 Intellectual property and licensing held by Wolf Core Trust LLC  
