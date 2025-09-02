@@ -107,3 +107,6 @@ This system ensures full transparency in the documentation of contradictions, re
 # Conclusion
 The Veritas Provenance and Hashing Solution forms the backbone of the Ledger of Collapse. By cryptographically binding each document, figure, and assertion to a commit in the repository, it ensures that all evidence is traceable, auditable, and tamper-resistant. This solution enhances the integrity and transparency of the collapse narrative, ensuring that every element can be traced and verified throughout its lifecycle.
 
+Copyright 2025 -- Seaph Antelmi - Wolf Core Trust LLC
+All Rights Reserved
+
