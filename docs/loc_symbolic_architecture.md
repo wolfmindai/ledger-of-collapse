@@ -48,26 +48,6 @@ Contradictions within the system are categorized across multiple dimensions to h
    - This contradiction occurs when there is a divergence between an agent’s **formal declaration** (e.g., a public statement or report) and the **underlying metadata**, which may have been suppressed or altered.
    - Example: A company declares compliance with environmental laws, but the audit data shows violations that are not reported in their official documentation.
 
-## Contradiction Trace (Agent-Level)
-
-The **contradiction trace**, defined in the `contradiction_trace.yaml` file, serves as a critical record of contradictions within the collapse system. It is organized at the **agent level**, meaning that each **agent** (such as an organization, regulatory body, or individual actor) has its own contradiction trace that logs all contradictions related to their actions, claims, and responses over time.
-
-### Contradiction Types
-
-Contradictions within the system are categorized across multiple dimensions to help organize the events and provide insight into the nature of the collapse. The key contradiction types include:
-
-1. **Claim vs. Action**:
-   - This contradiction occurs when an agent’s **public position** (claim) contradicts its **observable actions** (action).
-   - Example: A company publicly commits to sustainability but then takes actions that harm the environment, such as using non-recyclable materials.
-
-2. **Response vs. Suppression**:
-   - This contradiction arises when an agent’s **response** to an issue is **suppressed or ignored**, preventing the issue from being addressed.
-   - Example: A regulatory body acknowledges a violation but suppresses any information about the severity or scope of the issue.
-
-3. **Declaration vs. Metadata**:
-   - This contradiction occurs when there is a divergence between an agent’s **formal declaration** (e.g., a public statement or report) and the **underlying metadata**, which may have been suppressed or altered.
-   - Example: A company declares compliance with environmental laws, but the audit data shows violations that are not reported in their official documentation.
-
 ### Structure and Organization of the Contradiction Trace
 
 Each agent’s contradiction trace is recorded in its own dedicated `contradiction_trace.yaml` file. The file structure ensures that contradictions related to a specific agent are organized in a way that allows for transparency and traceability.
