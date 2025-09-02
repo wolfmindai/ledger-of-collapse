@@ -194,18 +194,6 @@ This encoding is central to collapse logic, linking actions, contradictions, and
 
 The **ark** and **chronicle** constructs provide the organizational and temporal scaffolds within which collapse events are categorized and traced. These structures ensure clarity and traceability throughout the collapse process.
 
-## Ark Structure  
-The ark functions as a **container** for collapse events, ensuring that each event is documented and organized within the context of collapse narratives across various agents and contradictions.
-
-- **Role in Structuring Collapse Events**:  
-  The ark helps provide a clear overview of institutional collapse by organizing collapse events in a logical, structured manner.
-
-## Chronicle Structure  
-Each **chronicle** within the ark represents a **specific collapse event**, capturing the **sequence** of contradictions, actions, and resolutions over time.
-
-- **Detailed Agent Interactions**: Mapping how agents' actions lead to contradictions.
-- **Chronological Event Sequence**: A timeline of events, capturing the unfolding collapse.
-- **Formal Assertions**: The conclusions drawn from contradictions that mark the resolution of collapse.
 
 ## Ark Structure
 The ark functions as a container for collapse events. It organizes chronicles, which represent distinct collapse events, and ensures that each event is documented within the proper context. The ark serves as a structural component that links multiple collapse narratives across various agents and contradictions.
