@@ -58,7 +58,7 @@ ledger-of-collapse/
 
 ## Scope and Boundaries
 
-The Ledger of Collapse is often viewed through institutional or technical frames that do not apply.  
+The Ledger of Collapse should not be viewed through normative institutional or technical frames, which do not apply.  
 To prevent category error, the following clarifications are made:
 
 - **This is not a software product**  
@@ -88,7 +88,7 @@ Interpretation is external to the system.
 
 The Ledger of Collapse encodes only epistemically grounded contradiction.
 
-Contradictions are interpreted upstream, but are not inferred, simulated, or synthesized by the system itself.
+Contradictions are interpreted upstream, and not inferred, simulated, or synthesized by the LOC itself.
 
 Eligibility for symbolic encoding requires structural surfacing:  
 observable inconsistency between declared scope and realized constraint,  
@@ -98,7 +98,7 @@ or between metadata and semantic state.
 Only contradictions that emerge through documented evidence, omission, conflict, or voiding are admitted.  
 Absence of trace is treated as undecidable—not vindication.
 
-This system does not project intent. It does not simulate systems.  
+This system does not project intent. It does not simulate.  
 It encodes what is bounded, anchored, and observable.
 
 ---
